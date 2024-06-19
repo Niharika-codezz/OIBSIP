@@ -1,0 +1,59 @@
+Body {
+    background-color: darkblue;
+  }
+   
+  ul {
+    display: inline-block;
+    text-align: left;
+    property: text-shadow;
+    font-family: 'Dosis', sans-serif;
+  }
+   
+  .container {
+    background-color: #BDEDFF ;
+    border-radius: 45px;
+    box-shadow: 18px 5px 5px Indigo;
+    margin: 24px auto;
+  }
+   
+  .header-title {
+    color: indigo;
+    font-size: 5em;
+    margin-left:300px;
+  }
+   
+  .header-subtitle {
+    color: rgb(45, 132, 138);
+    font-size: 2.5em;
+    margin-left: 300px;
+  }
+   
+  .image {
+    padding: 10px;
+    max-width: 760px;
+    margin: auto;
+    position: centre;
+  }
+   
+  .thumbnail {
+    border-radius: 10px;
+  
+  }
+   
+  .events-title {
+    font-size: 2.5em;
+    margin: 42px;
+  }
+  .events-list{
+    font-size: 1.5em;
+    margin: 42px;
+  }
+  
+  .about{
+    font-size: 1.5em;
+    margin: 80px;
+  }
+  .quote{
+    font-size: 1.5em;
+    margin: 80px;
+  }
